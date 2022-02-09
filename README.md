@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   <img src="https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667" height="60" width="60" />
   
-  <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height="60" width="60" />  
+  <img src="https://user-images.githubusercontent.com/48697810/153229288-d2a5b47e-e663-4ba7-89f0-44432989d431.png" height="60" width="60" />  
   
   <Img src="https://user-images.githubusercontent.com/48697810/153228869-4a100246-e3de-45da-82c8-92f30913c98a.png" height="60" width="60" />  
 </div>
