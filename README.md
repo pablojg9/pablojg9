@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 🌱 I’m currently learning... Java with Spring Boot and React
-- ⚡ interest in learning Spring Boot, React, Mysql, Docker
+- 🌱 I am currently a Java developer!
+- ⚡ stack utilizada: stack used: Java, Spring Boot, Docker, PostgreSQL, Kubernates and others.
 - 📫 Email: pablojuniorgn2@gmail.com
 
 ### My Stacks
