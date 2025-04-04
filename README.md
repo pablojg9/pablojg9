@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🌱 I am currently a Java developer!
-- ⚡ stack used: Java, Spring Boot, Docker, PostgreSQL, Kubernates and others.
+- ⚡ stack used: Java, Spring Boot, Docker, PostgreSQL, Jenkins, Kubernates and others.
 - 📫 Email: pablojuniorgn2@gmail.com
 
 ### My Stacks
