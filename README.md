@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/?size=512&id=39292&format=png" height="50" width="50" />
   <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/960px-Kubernetes_logo_without_workmark.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="50" width="50" />
   <Img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terraform-icon-svg-download-png-9632800.png" height="50" width="50" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" height="50" width="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height="50" width="50"/>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="50" width="50" />
 </div>
